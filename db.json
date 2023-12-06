@@ -1,0 +1,134 @@
+{
+  "user": [
+    {
+      "id": "Prashant123",
+      "name": "Prashant Deshpande",
+      "password": "Pr@ashant12",
+      "email": "prashant@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": "Tony12",
+      "name": "Tony Stark",
+      "password": "Ironman@3000",
+      "email": "ironman@gmail.com",
+      "gender": "male",
+      "role": "user",
+      "isActive": true
+    },
+    {
+      "id": "John34",
+      "name": "John Doe",
+      "password": "SecretPass123",
+      "email": "johndoe@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isActive": false
+    },
+    {
+      "id": "Jane45",
+      "name": "Jane Smith",
+      "password": "SecurePassword",
+      "email": "janesmith@gmail.com",
+      "gender": "female",
+      "role": "",
+      "isActive": true
+    },
+    {
+      "id": "Alice23",
+      "name": "Alice Johnson",
+      "password": "Pass1234",
+      "email": "alicejohnson@gmail.com",
+      "gender": "female",
+      "role": "",
+      "isActive": false
+    },
+    {
+      "id": "Bob56",
+      "name": "Bob Williams",
+      "password": "Password567",
+      "email": "bobwilliams@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isActive": true
+    },
+    {
+      "id": "Ella78",
+      "name": "Ella Davis",
+      "password": "EllaPwd789",
+      "email": "elladavis@gmail.com",
+      "gender": "female",
+      "role": "",
+      "isActive": false
+    },
+    {
+      "id": "Michael90",
+      "name": "Michael Brown",
+      "password": "BrownPass",
+      "email": "michaelbrown@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isActive": false
+    },
+    {
+      "id": "Sophia67",
+      "name": "Sophia Lee",
+      "password": "Lee1234",
+      "email": "sophialee@gmail.com",
+      "gender": "female",
+      "role": "",
+      "isActive": true
+    },
+    {
+      "id": "William89",
+      "name": "William Turner",
+      "password": "WillTurn567",
+      "email": "williamturner@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isActive": false
+    },
+    {
+      "id": "Olivia45",
+      "name": "Olivia White",
+      "password": "OliviaPwd",
+      "email": "oliviawhite@gmail.com",
+      "gender": "female",
+      "role": "",
+      "isActive": false
+    },
+    {
+      "id": "David23",
+      "name": "David Clark",
+      "password": "ClarkPass123",
+      "email": "davidclark@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isActive": true
+    }
+  ],
+  "role" : [
+    {
+      "id" : "sales",
+      "name" : "Sales"
+    },
+    {
+      "id" : "hr",
+      "name" : "HR"
+    },
+    {
+      "id" : "tester",
+      "name" : "Tester"
+    },
+    {
+      "id" : "developer",
+      "name" : "Developer"
+    },
+    {
+      "id" : "manager",
+      "name" : "Manager"
+    }
+  ]
+}
